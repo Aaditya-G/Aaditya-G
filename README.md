@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aaditya-G
-- 👀 I’m interested in Developement in general but i am finding my interests
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Creating Stuff using my keyboard.
+- 🌱 I’m currently learning devOPS and OS
+- 💞️ I’m looking to collaborate on any opportunity
 - 📫 How to reach me - you can mail me, it's on my profile
 
 <!---
