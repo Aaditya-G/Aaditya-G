@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Aaditya-G
-- 👀 I’m interested in Creating Stuff using my keyboard.
-- 🌱 I’m currently learning devOPS and OS
-- 💞️ I’m looking to collaborate on any opportunity
-- 📫 How to reach me - you can mail me, it's on my profile
+Hi Everyone, I am Aaditya, a 4th year undergraduate at IIT Roorkee Who loves to create stuff using his laptop. 
+
 
 <!---
 Aaditya-G/Aaditya-G is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
