@@ -1,4 +1,4 @@
-Hi Everyone, I am Aaditya, a 4th year undergraduate at IIT Roorkee Who loves to create stuff using his laptop. 
+Hi Everyone, I am Aaditya, a final year undergraduate at IIT Roorkee Who loves to create stuff using his laptop. 
 
 
 <!---
